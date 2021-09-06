@@ -1,0 +1,2 @@
+
+Ketika kata di klik akan muncul deskripsi kata telah di klik, jika klik floating button akan menambah kata baru dibawah
