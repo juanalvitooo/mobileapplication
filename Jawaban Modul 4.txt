@@ -1,0 +1,7 @@
+Juan Alvito 
+37193
+
+1. Intent - Implisit  : Pindah antar activity 
+Explisit : Pindah antar app 
+
+2. Fragment - menggunakan 2 method yaitu layout dan programmatic
