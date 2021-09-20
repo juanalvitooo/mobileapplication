@@ -1,0 +1,12 @@
+Juan Alvito
+ 37193
+
+Radio Button:
+- Rect = Membuat rectangle/square (sesuai arah cursor)
+- Oval = Membuat oval/lingkaran (sesuai arah cursor)
+- Line = Membuat garis (vertikal, horizontal, diagonal; sesuai arah cursor)
+- Path = Membuat garis asal mengikuti cursor
+
+Seek Bar: Mengubah warna berdasarkan RGB. Hasil kombinasi RGB dapat dilihat pada ImageButton.
+
+Clear: Ketika tombol ini diklik, semua gambar/coretan yang ada akan terhapus.
