@@ -1,7 +1,7 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    tools:context="id.ac.umn.hillarydorotheakristianto_37192_if570_al_uts.Library">
+    tools:context="id.ac.umn.JuanAlvito_37193_if570_al_uts.Library">
 
     <item
         android:id="@+id/action_profile"
