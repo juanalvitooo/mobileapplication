@@ -1,0 +1,12 @@
+Juan Alvito 37193
+
+1. Save - Aplikasi akan menyimpan file dengan nama yang di input dan sesuai dengan storage yang telah dipilih.
+- Delete : Aplikasi akan menghapus file
+- Open : Akan menampilkan list file yang ada.
+- Clear : Menghapus text
+- Exit : Aplikasi akan tertutup
+
+2. Saved Instance & Shared Preference 
+- Ketika button warna di klik  warna background akan berubah
+- Ketika button tambah diklik, angka akan bertambah
+- Ketikak button reset diklik, angka akan kembali 0 dan background akan kembali ke waena awal
